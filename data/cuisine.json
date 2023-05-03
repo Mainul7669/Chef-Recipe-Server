@@ -5,7 +5,7 @@
       "experience": 30,
       "recipes": 10,
       "likes": 500,
-      "image": "https://via.placeholder.com/150",
+      "image": "https://yt3.googleusercontent.com/GVTtEiBD6Mt1FR_Y5FKgYa8mHXcJiNfzDTa991tu1LZ3OrOANZC4J1-kSMmuaEys86yY336pcg=s900-c-k-c0x00ffffff-no-rj",
       "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur and television personality. He is best known as the author of numerous Indian style cookbooks and the host of Khana Khazana, a popular cookery program shown on Zee TV. Kapoor is one of the most recognized faces of Indian cuisine around the world.",
       "recipesList": [
         {
@@ -38,7 +38,7 @@
       "experience": 20,
       "recipes": 12,
       "likes": 600,
-      "image": "https://via.placeholder.com/150",
+      "image": "https://filmfare.wwmindia.com/thumb/content/2020/may/vikaskhannaeid41590390700.jpg?width=1200&height=900",
       "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India. He is based in New York City. In 2018, Khanna was awarded a doctorate in culinary arts by Woosong University in South Korea.",
       "recipesList": [
         {
@@ -74,7 +74,7 @@
     {
       "id": "3",
       "name": "Tarla Dalal",
-      "image": "https://i.imgur.com/xxXfZpC.jpg",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
       "experience": 35,
       "recipes": 60,
       "likes": 1200,
@@ -113,7 +113,7 @@
     {
       "id": "4",
       "name": "Madhur Jaffrey",
-      "image": "https://i.imgur.com/pKcUCZL.jpg",
+      "image": "https://media.npr.org/assets/img/2010/12/20/jaffrey_custom-b8bfd69c2919ffe78855e78ab649640f469d29b5-s1100-c50.jpg",
       "experience": 50,
       "recipes": 70,
       "likes": 1400,
@@ -152,7 +152,7 @@
     {
       "id": "5",
       "name": "Ranveer Brar",
-      "image": "https://i.imgur.com/ob1K63y.jpg",
+      "image": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
       "experience": 15,
       "recipes": 30,
       "likes": 600,
@@ -191,7 +191,7 @@
     {
       "id": "6",
       "name": "Nita Mehta",
-      "image": "https://i.imgur.com/7VZ0rtj.jpg",
+      "image": "https://kalingatv.com/wp-content/uploads/2019/05/Nita-cover.jpg.jpg",
       "experience": 30,
       "recipes": 55,
       "likes": 1100,
