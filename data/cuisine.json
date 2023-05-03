@@ -1,0 +1,225 @@
+ [
+    {
+      "id": "1",
+      "name": "Sanjeev Kapoor",
+      "experience": 30,
+      "recipes": 10,
+      "likes": 500,
+      "image": "https://via.placeholder.com/150",
+      "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur and television personality. He is best known as the author of numerous Indian style cookbooks and the host of Khana Khazana, a popular cookery program shown on Zee TV. Kapoor is one of the most recognized faces of Indian cuisine around the world.",
+      "recipesList": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "butter"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and butter until sauce thickens.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["spinach", "paneer", "onion", "garlic", "tomato"],
+          "cookingMethod": "Blanch spinach and blend into a puree. Cook onion, garlic and tomato, and add spinach puree. Add paneer and cook until the gravy thickens.",
+          "rating": 4,
+          "favorite": false
+        },
+        {
+          "name": "Chana Masala",
+          "ingredients": ["chickpeas", "onion", "garlic", "tomato", "spices"],
+          "cookingMethod": "Cook chickpeas until tender. Cook onion and garlic, add tomato and spices. Add chickpeas and cook until the gravy thickens.",
+          "rating": 4.2,
+          "favorite": false
+        }
+      ]
+    },
+
+    {
+      "id": "2",
+      "name": "Vikas Khanna",
+      "experience": 20,
+      "recipes": 12,
+      "likes": 600,
+      "image": "https://via.placeholder.com/150",
+      "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India. He is based in New York City. In 2018, Khanna was awarded a doctorate in culinary arts by Woosong University in South Korea.",
+      "recipesList": [
+        {
+          "name": "Dal Makhani",
+          "ingredients": [
+            "black lentils",
+            "kidney beans",
+            "spices",
+            "tomato",
+            "butter"
+          ],
+          "cookingMethod": "Soak black lentils and kidney beans overnight. Cook them with spices and tomato puree. Add butter and cream and cook until the gravy thickens.",
+          "rating": 4.8,
+          "favorite": false
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and cream until sauce thickens.",
+          "rating": 4.6,
+          "favorite": false
+        },
+        {
+          "name": "Biriyani",
+          "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "rating": 4.4,
+          "favorite": false
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "name": "Tarla Dalal",
+      "image": "https://i.imgur.com/xxXfZpC.jpg",
+      "experience": 35,
+      "recipes": 60,
+      "likes": 1200,
+      "bio": "Tarla Dalal was a renowned Indian cookbook author and chef. She wrote over 100 books and sold over 10 million copies. She was also a TV host and had her own cooking show. She passed away in 2013 but her legacy lives on through her recipes.",
+      "recipesList": [
+        {
+          "name": "Dal Makhani",
+          "ingredients": [
+            "black lentils",
+            "kidney beans",
+            "spices",
+            "tomato",
+            "butter"
+          ],
+          "cookingMethod": "Soak black lentils and kidney beans overnight. Cook them with spices and tomato puree. Add butter and cream and cook until the gravy thickens.",
+          "rating": 4.8,
+          "favorite": false
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and cream until sauce thickens.",
+          "rating": 4.6,
+          "favorite": false
+        },
+        {
+          "name": "Biriyani",
+          "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "rating": 4.4,
+          "favorite": false
+        }
+      ]
+    },
+
+    {
+      "id": "4",
+      "name": "Madhur Jaffrey",
+      "image": "https://i.imgur.com/pKcUCZL.jpg",
+      "experience": 50,
+      "recipes": 70,
+      "likes": 1400,
+      "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has written several cookbooks and has appeared on many TV shows, including the BBC series Madhur Jaffrey's Indian Cookery.",
+      "recipesList": [
+        {
+          "name": "Dal Makhani",
+          "ingredients": [
+            "black lentils",
+            "kidney beans",
+            "spices",
+            "tomato",
+            "butter"
+          ],
+          "cookingMethod": "Soak black lentils and kidney beans overnight. Cook them with spices and tomato puree. Add butter and cream and cook until the gravy thickens.",
+          "rating": 4.8,
+          "favorite": false
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and cream until sauce thickens.",
+          "rating": 4.6,
+          "favorite": false
+        },
+        {
+          "name": "Biriyani",
+          "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "rating": 4.4,
+          "favorite": false
+        }
+      ]
+    },
+
+    {
+      "id": "5",
+      "name": "Ranveer Brar",
+      "image": "https://i.imgur.com/ob1K63y.jpg",
+      "experience": 15,
+      "recipes": 30,
+      "likes": 600,
+      "bio": "Ranveer Brar is a popular Indian chef, restaurateur, author and television personality. He is the owner of several restaurants and has appeared on several TV shows, including MasterChef India and The Great Indian Rasoi.",
+      "recipesList": [
+        {
+          "name": "Dal Makhani",
+          "ingredients": [
+            "black lentils",
+            "kidney beans",
+            "spices",
+            "tomato",
+            "butter"
+          ],
+          "cookingMethod": "Soak black lentils and kidney beans overnight. Cook them with spices and tomato puree. Add butter and cream and cook until the gravy thickens.",
+          "rating": 4.8,
+          "favorite": false
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "cream"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and cream until sauce thickens.",
+          "rating": 4.6,
+          "favorite": false
+        },
+        {
+          "name": "Biriyani",
+          "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "rating": 4.4,
+          "favorite": false
+        }
+      ]
+    },
+
+    {
+      "id": "6",
+      "name": "Nita Mehta",
+      "image": "https://i.imgur.com/7VZ0rtj.jpg",
+      "experience": 30,
+      "recipes": 55,
+      "likes": 1100,
+      "bio": "Nita Mehta is an Indian celebrity chef, author, restaurateur and media personality. She has written over 600 cookbooks and has won several awards for her work. She also runs a chain of restaurants and cooking schools in India.",
+      "recipesList": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": ["chicken", "yogurt", "spices", "tomato", "butter"],
+          "cookingMethod": "Marinate chicken with yogurt and spices. Grill chicken and then cook with tomato puree and butter until sauce thickens.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["spinach", "paneer", "onion", "garlic", "tomato"],
+          "cookingMethod": "Blanch spinach and blend into a puree. Cook onion, garlic and tomato, and add spinach puree. Add paneer and cook until the gravy thickens.",
+          "rating": 4,
+          "favorite": false
+        },
+        {
+          "name": "Chana Masala",
+          "ingredients": ["chickpeas", "onion", "garlic", "tomato", "spices"],
+          "cookingMethod": "Cook chickpeas until tender. Cook onion and garlic, add tomato and spices. Add chickpeas and cook until the gravy thickens.",
+          "rating": 4.2,
+          "favorite": false
+        }
+      ]
+    }
+  ]
+
+
