@@ -5,12 +5,26 @@ const port = process.env.PORT || 5000;
 
 const categories = require('./data/categories.json');
 const news = require('./data/news.json');
+const cuisine = require ('./data/cuisine.json');
 
 app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Dragon is running')
 });
+
+app.get('/cuisine', (req, res) => {
+    res.send(cuisine);
+})
+
+app.get('/cuisine/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCuisine = cuisine.find(n => n.id === id);
+    res.send(selectedCuisine)
+})
+
+
+
 
 app.get('/categories', (req, res) => {
     res.send(categories);
