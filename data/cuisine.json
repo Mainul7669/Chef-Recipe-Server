@@ -64,7 +64,7 @@
         {
           "name": "Biriyani",
           "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat.",
           "rating": 4.4,
           "favorite": false
         }
@@ -103,7 +103,7 @@
         {
           "name": "Biriyani",
           "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat.",
           "rating": 4.4,
           "favorite": false
         }
@@ -142,7 +142,7 @@
         {
           "name": "Biriyani",
           "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat.",
           "rating": 4.4,
           "favorite": false
         }
@@ -181,7 +181,7 @@
         {
           "name": "Biriyani",
           "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat until rice and chicken are fully cooked.",
+          "cookingMethod": "Cook rice and chicken separately with spices. Layer rice and chicken in a pot with fried onions and yogurt. Cook on low heat.",
           "rating": 4.4,
           "favorite": false
         }
